@@ -234,6 +234,7 @@ PRODUCT_PACKAGES += \
     libwfduibcsrcinterface_proprietary \
     libwfdutils_proprietary \
     libasphere \
+    libmisoundfx \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
