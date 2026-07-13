@@ -31,7 +31,7 @@
 # IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
 
-service vendor.cdsprpcd /vendor/bin/cdsprpcd
+service vendor.cdsprpcd /vendor/bin/cdsprpcd rootpd cdsp
    class main
    user system
    group system
